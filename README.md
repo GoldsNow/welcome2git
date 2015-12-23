@@ -117,4 +117,5 @@
 	* arron_chen
 	* xxmodd
 	* fsfish
+	* GoldsNow
 
